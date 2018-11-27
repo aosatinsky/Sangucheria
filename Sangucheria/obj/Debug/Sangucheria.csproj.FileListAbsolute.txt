@@ -1,0 +1,47 @@
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\Sangucheria.exe.config
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\Sangucheria.exe
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\Sangucheria.pdb
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\EntityFramework.dll
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\System.Data.SQLite.dll
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\EntityFramework.xml
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\System.Data.SQLite.xml
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Vistas.Administrador.resources
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Form1.resources
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Properties.Resources.resources
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csproj.GenerateResource.cache
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csproj.CopyComplete
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.exe
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.pdb
+C:\Users\Agustin Osatinsky\source\repos\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Vistas.Pedidos.resources
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\bin\Debug\Sangucheria.exe.config
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\bin\Debug\Sangucheria.exe
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\bin\Debug\Sangucheria.pdb
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Vistas.Administrador.resources
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Form1.resources
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Properties.Resources.resources
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Vistas.Pedidos.resources
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csproj.GenerateResource.cache
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csproj.CoreCompileInputs.cache
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.exe
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.pdb
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\bin\Debug\Sangucheria.exe.config
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\bin\Debug\Sangucheria.exe
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\bin\Debug\Sangucheria.pdb
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csprojResolveAssemblyReference.cache
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Vistas.Administrador.resources
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Form1.resources
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Properties.Resources.resources
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Vistas.Pedidos.resources
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csproj.GenerateResource.cache
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csproj.CoreCompileInputs.cache
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.exe
+C:\Users\Agustin Osatinsky\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.pdb
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.Vistas.Agregados.resources
+C:\Users\agust\Dropbox\UTN\Cuarto año\ING SOFTWARE\Sangucheria\Sangucheria\obj\Debug\Sangucheria.csprojAssemblyReference.cache

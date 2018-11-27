@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Sangucheria.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Sangucheria_Afip_Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://wswhomo.afip.gov.ar/wsfev1/service.asmx</Value>
+    </Setting>
+    <Setting Name="Sangucheria_vSoap_LoginService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ds.dyndns.org:9000/AuthorizationService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
